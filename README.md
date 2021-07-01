@@ -8,7 +8,7 @@ There is a high demand for computational modellers and data scientists and this 
 
 | Week | Topic                                  | Lecturer    |
 |------|----------------------------------------|-------------|
-|  1   | <a href="week1.md">Introduction</a>    | David       |
+|  1   | <a href="week1.html">Introduction</a>    | David       |
 |  2   | Feature Engineering                    | David       |
 |  3   | Dimension Reduction                    | Jacob       |
 |  4   | Distance-Based Models                  | ???         |
