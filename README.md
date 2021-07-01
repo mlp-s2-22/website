@@ -4,8 +4,7 @@ This course intends to provide an introduction to machine learning techniques. T
 
 There is a high demand for computational modellers and data scientists and this course aims to teach skills suitable for careers in a wide range of public and private institutions.
 
-## Course Overview
-
+## Course Schedule
 
 | Week | Topic                      | Lecturer    |
 |------|----------------------------|-------------|
