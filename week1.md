@@ -9,12 +9,14 @@ Get acquainted with the course and the skills you will acquire throughout the se
 | 01   | Introduction               | [Link]      | [Link] |   [<img src="https://image.flaticon.com/icons/png/512/3497/3497154.png" width="30"/>](https://youtu.be/lX93oBGaBwQ) |00:00  |
 
 ## Assignments
+
 | Assignment  | Title/Link                  | Due                   |
 |:------------|:----------------------------|:----------------------|
 | EX01        | Introductory Exercises      |                       |
 | LAB01       | End-to-End Machine Learning | Wed, 26 Jan, 17:00 UK |
 
 ## Readings
+
 | Title/Link   | Requirement |
 |:-------------|:------------|
 | LINK         | Required    |
