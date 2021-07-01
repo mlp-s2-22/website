@@ -17,7 +17,7 @@ Get acquainted with the course and the skills you will acquire throughout the se
 
 ## Readings
 
-| Title/Link   | Requirement |
-|:-------------|:------------|
-| LINK         | Required    |
-| LINK         | Optional    |
+| Title/Link    | Requirement |
+|:--------------|:------------|
+| Lecture Notes | Required    |
+| LINK          | Optional    |
