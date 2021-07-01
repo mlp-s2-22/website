@@ -6,18 +6,18 @@ There is a high demand for computational modellers and data scientists and this 
 
 ## Course Schedule
 
-| Week | Topic                      | Lecturer    |
-|------|----------------------------|-------------|
-|  1   | Introduction               | David       |
-|  2   | Feature Engineering        | David       |
-|  3   | Dimension Reduction        | Jacob       |
-|  4   | Distance-Based Models      | ???         |
-|  5   | Linear Regression          | ???         |
-|  6   | Non-Linear Regression      | ???         |
-|  7   | "Classical" Classification | David/???   |
-|  8   | Ensemble Classification    | David/Jacob |
-|  9   | Neural Networks pt.1       | Jacob       |
-|  10  | Neural Networks pt.2       | Jacob       |
-|  11  | Ethics                     | David       |
+| Week | Topic                                  | Lecturer    |
+|------|----------------------------------------|-------------|
+|  1   | <a href="week1.md">Introduction</a>    | David       |
+|  2   | Feature Engineering                    | David       |
+|  3   | Dimension Reduction                    | Jacob       |
+|  4   | Distance-Based Models                  | ???         |
+|  5   | Linear Regression                      | ???         |
+|  6   | Non-Linear Regression                  | ???         |
+|  7   | "Classical" Classification             | David/???   |
+|  8   | Ensemble Classification                | David/Jacob |
+|  9   | Neural Networks pt.1                   | Jacob       |
+|  10  | Neural Networks pt.2                   | Jacob       |
+|  11  | Ethics                                 | David       |
 
-## Materials Overview
+## Syllabus
