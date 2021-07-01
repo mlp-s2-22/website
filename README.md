@@ -10,23 +10,31 @@ On completion of this course, students will be able to:
 - Use a suitable programming language to work with data and apply machine learning tools to it.
 - Interpret the output and validity of a learning algorithm.
 
-## Course Schedule
+## Contents
+- [Course Schedule](#schedule)
+- [Course Components](#comp)
+- [Assessments](#assess)
+- [Course Policies](#policy)
+- [Help](#help)
+- [Contacts](#contacts)
 
-| Week | Topic                                  | Lecturer        |
-|------|----------------------------------------|-----------------|
-|  1   | <a href="week1.html">Introduction</a>  | [David](#david) |
-|  2   | Feature Engineering                    | David       |
-|  3   | Dimension Reduction                    | Jacob       |
-|  4   | Distance-Based Models                  | ???         |
-|  5   | Linear Regression                      | ???         |
-|  6   | Non-Linear Regression                  | ???         |
-|  7   | "Classical" Classification             | David/???   |
-|  8   | Ensemble Classification                | David/Jacob |
-|  9   | Neural Networks pt.1                   | Jacob       |
-|  10  | Neural Networks pt.2                   | Jacob       |
-|  11  | Ethics                                 | David       |
+## Course Schedule <a id='schedule'></a>
 
-## Course Components
+| Week | Topic                                  | Lecturer                        |
+|------|----------------------------------------|---------------------------------|
+|  1   | <a href="week1.html">Introduction</a>  | [David](#david)                 |
+|  2   | Feature Engineering                    | [David](#david)                 |
+|  3   | Dimension Reduction                    | [Jacob](#jacob)                 |
+|  4   | Distance-Based Models                  | [???](#na)                      |
+|  5   | Linear Regression                      | [???](#na)                      |
+|  6   | Non-Linear Regression                  | [???](#na)                      |
+|  7   | "Classical" Classification             | [David](#david)/[???](#na)      |
+|  8   | Ensemble Classification                | [David](#david)/[Jacob](#jacob) |
+|  9   | Neural Networks pt.1                   | [Jacob](#jacob)                 |
+|  10  | Neural Networks pt.2                   | [Jacob](#jacob)                 |
+|  11  | Ethics                                 | [David](#david)                 |
+
+## Course Components <a id='comp'></a>
 
 ### Weekly Structure
 
@@ -65,7 +73,7 @@ If you are looking for your workshop times for this course, these can be found v
 
 __Tip:__ Read or even start the workshop materials before the workshop on Friday so you have chance to become familiar with that weeks tasks. This will mean you have more time in the workshop to ask questions to the tutors/lecturers and discuss problems with other students.
 
-## Assessments
+## Assessments <a id='assess'></a>
 
 Your overall course grade will be comprised of the following components, and their weights:
 
@@ -139,7 +147,7 @@ A sample exam will be provided later in the course. A version with solutions wil
 
 Any questions about the sample exam or the solutions should be posted on Piazza.
 
-## Course Policies
+## Course Policies <a id='policy'></a>
 
 ### Collaboration
 
@@ -180,7 +188,7 @@ It is our intent that students from all diverse backgrounds and perspectives be 
 - If you feel like your performance in the class is being impacted by your experiences outside of class, please don’t hesitate to come and talk with course staff. We want to be a resource for you. If you prefer to speak with someone outside of the course, your personal tutor is an excellent resource.
 - All of us (staff and students alike) are still in the process of learning about diverse perspectives and identities. If something was said in class by anyone that made you feel uncomfortable, please talk to the course organiser about it.
 
-## Help
+## Help <a id='help'></a>
 
 Most of you will need help at some point and we want to make sure you can identify when that is without getting too frustrated and feel comfortable seeking help.
 
@@ -208,7 +216,7 @@ For more general support and advice, please make use of the following resources:
 
 Make good use of this support system, it is there for you! And if you’re not sure where to go for help, just ask any academic or administrative member of the course team.
 
-## Contacts
+## Contacts <a id='contacts'></a>
 
 ### Dr. David Elliott (Course Organiser/Lecturer) <a id='david'></a> [<img src="https://image.flaticon.com/icons/png/512/646/646094.png" width="20"/>](mailto:david.elliott@ed.ac.uk) [<img src="https://image.flaticon.com/icons/png/512/25/25694.png" width="20"/>](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=855) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20"/>](https://github.com/Eldave93)
 
@@ -219,13 +227,13 @@ _My pronouns are he/him._
 I am a University Teacher in Mathematical Sciences Computing in the School of Mathematics. My work focuses on teaching probability, statistics, and data science to undergraduate and master’s students; with previous experience teaching hypothesis testing and research design. My recent research focuses on developing machine learning algorithms to improve the diagnosis speed and accuracy of identifying seizures in clinical records of electrical brain activity. Alike to many data scientists from a neuroscience background, I appreciate how human neurology and behaviour has inspired many modern machine learning advancements. I am passionate about the practical applications of machine learning and aim to educate and inspire others to develop research and models to tackle real-world challenges.
 <br clear="left"/>
 
-### Dr. Jacob Page (Lecturer) [<img src="https://image.flaticon.com/icons/png/512/646/646094.png" width="20"/>](mailto:jacob.page@ed.ac.uk) [<img src="https://image.flaticon.com/icons/png/512/25/25694.png" width="20"/>](https://www.jacob-page.com/about-1)
+### Dr. Jacob Page (Lecturer) <a id='jacob'></a> [<img src="https://image.flaticon.com/icons/png/512/646/646094.png" width="20"/>](mailto:jacob.page@ed.ac.uk) [<img src="https://image.flaticon.com/icons/png/512/25/25694.png" width="20"/>](https://www.jacob-page.com/about-1)
 
 _My pronouns are [INSERT]._
 
 __[INSERT BIO]__
 
-### ??? (Lecturer)
+### ??? (Lecturer) <a id='na'></a>
 
 _My pronouns are [INSERT]._
 
