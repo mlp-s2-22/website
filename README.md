@@ -12,9 +12,9 @@ On completion of this course, students will be able to:
 
 ## Course Schedule
 
-| Week | Topic                                  | Lecturer    |
-|------|----------------------------------------|-------------|
-|  1   | <a href="week1.html">Introduction</a>  | David       |
+| Week | Topic                                  | Lecturer        |
+|------|----------------------------------------|-----------------|
+|  1   | <a href="week1.html">Introduction</a>  | [David](#david) |
 |  2   | Feature Engineering                    | David       |
 |  3   | Dimension Reduction                    | Jacob       |
 |  4   | Distance-Based Models                  | ???         |
@@ -210,7 +210,7 @@ Make good use of this support system, it is there for you! And if you’re not s
 
 ## Contacts
 
-### Dr. David Elliott (Course Organiser/Lecturer) [<img src="https://image.flaticon.com/icons/png/512/646/646094.png" width="20"/>](mailto:david.elliott@ed.ac.uk) [<img src="https://image.flaticon.com/icons/png/512/25/25694.png" width="20"/>](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=855) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20"/>](https://github.com/Eldave93)
+### Dr. David Elliott (Course Organiser/Lecturer) <a id='david'></a> [<img src="https://image.flaticon.com/icons/png/512/646/646094.png" width="20"/>](mailto:david.elliott@ed.ac.uk) [<img src="https://image.flaticon.com/icons/png/512/25/25694.png" width="20"/>](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=855) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20"/>](https://github.com/Eldave93)
 
 _My pronouns are he/him._
 
