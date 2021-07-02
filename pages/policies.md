@@ -1,20 +1,20 @@
-## Course Policies
+# Course Policies
 
-### Collaboration
+## Collaboration
 
 Assigned teamwork should be completed collaboratively. All team members are expected to contribute equally to the completion of each assignment and you will be asked to evaluate your team members after each project assignment is due. Failure to adequately contribute to an assignment will result in a penalty to your mark relative to the team’s overall mark. While different team members may have different backgrounds and abilities, it is the responsibility of every team member to understand how and why all code and approaches in the assignment works.
 
-### Sharing/Reusing Code
+## Sharing/Reusing Code
 
 There is a huge volume of code is available on the web to solve any number of problems. Unless explicitly told not to use something the course’s policy is that you may make use of any online resources (e.g. StackOverflow) but you must explicitly cite where you obtained any code you directly use (or use as inspiration). Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism. On team assignments you may not directly share code with another team in this class. You are welcome to discuss the problems together and ask for advice, but you may not send or make use of code from another team.
 
-### Academic Integrity
+## Academic Integrity
 
 The University takes academic misconduct very seriously and is committed to ensuring that so far as possible it is detected and dealt with appropriately. Find out more about the University’s official policies around academic misconduct [here](https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/academic-misconduct).
 
 Cheating or plagiarising on assignments, lying about an illness or absence and other forms of academic dishonesty are a breach of trust with classmates and faculty, violate the University policies, and will not be tolerated. Such incidences will result in a 0 grade for all parties involved. Additionally, there may be penalties to your final class grade along with being reported to the School Academic Misconduct Office.
 
-### Late Work, Extensions, and Special Circumstances
+## Late Work, Extensions, and Special Circumstances
 
 All work is due on the stated due date. Due dates are there to help guide your pace through the course and they also allow us (the course staff) to return marks and feedback to you in a timely manner. However, sometimes life gets in the way and you might not be able to turn in your work on time.
 
@@ -26,11 +26,11 @@ __Special Circumstances:__ You can think of special circumstances as one level a
 
 If you’re not sure whether your personal circumstance should be filed under an extension or special circumstances, we recommend you reach out to your Personal Tutor and/or Student Support Officers (studentsupport@maths.ed.ac.uk).
 
-### Regrade Requests
+## Regrade Requests
 
 Regrade requests must be made within one week of when the assignment is returned, and must be typed up and submitted via email to David Elliott. These will be honoured if points were tallied incorrectly, or if you feel your answer is correct but it was marked wrong. No regrade will be made to alter the number of points deducted for a mistake. There will be no grade changes after [INSERT DATE].
 
-### Diversity & inclusion
+## Diversity & inclusion
 
 It is our intent that students from all diverse backgrounds and perspectives be well-served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength and benefit. We wish to create a learning environment that supports a diversity of thoughts, perspectives and experiences, and honors your identities (including gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture.) To help accomplish this:
 
