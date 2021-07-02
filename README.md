@@ -10,9 +10,6 @@ On completion of this course, students will be able to:
 - Use a suitable programming language to work with data and apply machine learning tools to it.
 - Interpret the output and validity of a learning algorithm.
 
-__TODO__
-- change theme to https://github.com/alshedivat/al-folio
-
 ## Contents
 - [Course Schedule](#schedule)
 - [Course Components](#comp)
