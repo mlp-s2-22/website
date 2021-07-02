@@ -22,7 +22,7 @@ On completion of this course, students will be able to:
 
 | Week | Topic                                                              | Lecturer                        |
 |------|--------------------------------------------------------------------|---------------------------------|
-|  1   | <a href="/pages/week1.html">Introduction</a>  | [David](#david)                 |
+|  1   | <a href="/website/pages/week1.html">Introduction</a>               | [David](#david)                 |
 |  2   | Feature Engineering                                                | [David](#david)                 |
 |  3   | Dimension Reduction                                                | [Jacob](#jacob)                 |
 |  4   | Distance-Based Models                                              | [???](#na)                      |
