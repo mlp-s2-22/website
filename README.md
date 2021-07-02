@@ -1,5 +1,3 @@
-# Machine Learning In Python (21-22) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>](https://github.com/mlp-s2-22) [<img src="https://pbs.twimg.com/profile_images/1419243630/twitter_pic_400x400.png" width="25"/>](https://piazza.com/) [<img src="https://img.icons8.com/ios/50/000000/university.png" width="25"/>](www.learn.ed.ac.uk)
-
 This course intends to provide an introduction to machine learning techniques. The course includes discussion on the theory and ideas behind various modern algorithms, so basic knowledge of probability and statistics is required. This is also a focus on practical experience of using suitable toolkits, available in Python, on various datasets.
 
 There is a high demand for computational modellers and data scientists and this course aims to teach skills suitable for careers in a wide range of public and private institutions.
