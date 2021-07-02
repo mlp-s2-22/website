@@ -1,24 +1,22 @@
-# Course Components
-
-## Weekly Structure
+### Weekly Structure
 
 - __Monday:__ Lecture videos and workshop material for the week released
 - __Wednesday:__ Previous weeks workshop assignment to be submitted
 - __Friday:__ Weekly workshops
 
-## Lecture Materials
+### Lecture Materials
 
 These are released on Mondays and are comprised of course content and weekly "State of the MLP" videos (recap of previous week, what’s coming in the new week, frequently asked questions). You're expected to watch (and learn from) them before Friday’s workshops. These will be accomanied by lecture notes created to complement the video lectures and slides.
 
-## Exercises
+### Exercises
 
 To keep your learning active, you’ll have the chance to work on exercises associated with that weeks lectures. These exercises will not count towards the final mark, but students are strongly encouraged to complete as many exercises as possible, as they provide examples of the types of questions that may appear on the exam.  For any questions, please attend office hours or post on Piazza.
 
-## Student hours
+### Student hours
 
 The weeks lecturer will each hold student hours on __[INSERT DATE/TIME]__. These will be __[in person at INSERT LOCATION/on Zoom and will not be recorded?]__. It's a great time to come and get real time answers to your questions or just say hi!
 
-## Workshops
+### Workshops
 
 Workshops will be held on Fridays __[INSERT LOCATION/on Zoom, and they will not be recorded?]__. We expect that you show up to the workshop session you've been assigned to weekly, if you have a scheduling conflict you must officially change your enrolled section.
 
