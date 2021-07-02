@@ -20,19 +20,19 @@ On completion of this course, students will be able to:
 
 ## Course Schedule <a id='schedule'></a>
 
-| Week | Topic                                  | Lecturer                        |
-|------|----------------------------------------|---------------------------------|
-|  1   | <a href="week1.html">Introduction</a>  | [David](#david)                 |
-|  2   | Feature Engineering                    | [David](#david)                 |
-|  3   | Dimension Reduction                    | [Jacob](#jacob)                 |
-|  4   | Distance-Based Models                  | [???](#na)                      |
-|  5   | Linear Regression                      | [???](#na)                      |
-|  6   | Non-Linear Regression                  | [???](#na)                      |
-|  7   | "Classical" Classification             | [David](#david)/[???](#na)      |
-|  8   | Ensemble Classification                | [David](#david)/[Jacob](#jacob) |
-|  9   | Neural Networks pt.1                   | [Jacob](#jacob)                 |
-|  10  | Neural Networks pt.2                   | [Jacob](#jacob)                 |
-|  11  | Ethics                                 | [David](#david)                 |
+| Week | Topic                                                              | Lecturer                        |
+|------|--------------------------------------------------------------------|---------------------------------|
+|  1   | <a href={{ "/pages/week1.html" | relative_url }}>Introduction</a>  | [David](#david)                 |
+|  2   | Feature Engineering                                                | [David](#david)                 |
+|  3   | Dimension Reduction                                                | [Jacob](#jacob)                 |
+|  4   | Distance-Based Models                                              | [???](#na)                      |
+|  5   | Linear Regression                                                  | [???](#na)                      |
+|  6   | Non-Linear Regression                                              | [???](#na)                      |
+|  7   | "Classical" Classification                                         | [David](#david)/[???](#na)      |
+|  8   | Ensemble Classification                                            | [David](#david)/[Jacob](#jacob) |
+|  9   | Neural Networks pt.1                                               | [Jacob](#jacob)                 |
+|  10  | Neural Networks pt.2                                               | [Jacob](#jacob)                 |
+|  11  | Ethics                                                             | [David](#david)                 |
 
 ## Course Components <a id='comp'></a>
 
