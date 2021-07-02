@@ -1,28 +1,26 @@
-# Assessments
-
 Your overall course grade will be comprised of the following components, and their weights:
 
 - Workshop Assessments: 10%
 - Projects: 40%
 - Final Exam: 50%
 
-## Workshop Assessments (10%)
+### Workshop Assessments (10%)
 
 Teams are required to to turn in the completed worksheets via __[Gradescope/GitHub repositories?]__ by Wednesday 5pm UK time before the next week’s workshop. Marking will be binary, with any reasonable attempt to complete the worksheet receiving full credit. No extensions will be granted for submitting these worksheets. Solutions will be provided after the deadline.
 
-## Projects (40%)
+### Projects (40%)
 
 Either individually or as a team of up to 4 students, you will be responsible for the completion of two projects for this course. The goal of these projects is to develop understandable and validated models using the tools and techniques covered in this class. Along with reproducible code, you will be required to submit a report to communicate your research.
 
-### Project 1 (20%)
+#### Project 1 (20%)
 
 Specific details on this project will be made available as the course progresses. 
 
-### Project 2 (20%)
+#### Project 2 (20%)
 
 Specific details on this project will be made available as the course progresses.  
 
-### Required Structure & Formatting
+#### Required Structure & Formatting
 
 We will provide a templated Jupyter notebook for each project which include the required sections along with brief instructions on what should be included in each section. Your completed assignment must follow this structure - you should not add or remove any of these sections, if you feel it is necessary you may add addition subsections within each. Please remove the instructions for each section in the final document.
 
@@ -32,7 +30,7 @@ Our expectation is that most projects will be roughly 10-15 pages in length (tex
 
 Overall, your project will be partially assessed on your organization/presentation of the document - it should be as polished and streamlined as possible. We highly recommend that you check the appearance of your rendered PDF before submitting, as its appearance can differ significantly from the notebook.
 
-### Submission
+#### Submission
 
 Project 1 is due __[INSERT DATE]__ by 5 pm (UK local time) and project 2 is due __[INSERT DATE]__ by 5 pm (UK local time). You are expected to submit your completed work as follows:
 
@@ -45,7 +43,7 @@ For a team submission - all contributors should be added to the assignment. Only
 
 Late submissions will be accepted up to seven calendar days of the deadline, with a late submission penalty applied of 5% of the overall mark for each 24 hours past the deadline. Full details on the [extensions and late submissions policy](https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/extensions).
 
-### Marking Rubric
+#### Marking Rubric
 
 The project will be marked out of 100, and we will be using the following rubric to roughly guide the marking:
 
@@ -63,7 +61,7 @@ __<49:__ Significant issues with the code, model(s), and/or the write up. Write-
 
 Using these criteria, specific rubrics will be used to assess each of the 4 required sections of the project.
 
-## Final Exam (50%)
+### Final Exam (50%)
 
 __[Insert Information]__
 
