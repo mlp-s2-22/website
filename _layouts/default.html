@@ -22,7 +22,11 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
+        <p><a href={{ "/pages/assessments.html" | relative_url }}>Assessments</a></p>
+        <p><a href={{ "/pages/contacts.html" | relative_url }}>Contacts</a></p>
         <p><a href={{ "/pages/components.html" | relative_url }}>Course Components</a></p>
+        <p><a href={{ "/pages/policies.html" | relative_url }}>Course Policies</a></p>
+        <p><a href={{ "/pages/help.html" | relative_url }}>Help</a></p>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
