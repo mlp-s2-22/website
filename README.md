@@ -21,3 +21,8 @@ On completion of this course, students will be able to:
 |  9   | Neural Networks pt.1                                               | Jacob       |
 |  10  | Neural Networks pt.2                                               | Jacob       |
 |  11  | Ethics                                                             | David       |
+
+{% if site.github.is_project_page %}
+<p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+{% endif %}
+<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
