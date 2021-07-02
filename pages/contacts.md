@@ -1,6 +1,6 @@
 <img src="https://mlp-s2-22.github.io/website/assets/img/david-portrait.jpg"/>
 
-### Dr. David Elliott (Course Organiser/Lecturer) <a id='david'></a> [<img src="https://image.flaticon.com/icons/png/512/646/646094.png" width="20"/>](mailto:david.elliott@ed.ac.uk) [<img src="https://image.flaticon.com/icons/png/512/25/25694.png" width="20"/>](https://www.eldave93.github.io.html) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20"/>](https://github.com/Eldave93)
+### Dr. David Elliott (Course Organiser/Lecturer) <a id='david'></a> [<img src="https://image.flaticon.com/icons/png/512/646/646094.png" width="20"/>](mailto:david.elliott@ed.ac.uk) [<img src="https://image.flaticon.com/icons/png/512/25/25694.png" width="20"/>](https://eldave93.github.io) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20"/>](https://github.com/Eldave93)
 
 _My pronouns are he/him._
 
