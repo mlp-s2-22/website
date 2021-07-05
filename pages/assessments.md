@@ -1,10 +1,15 @@
 Your overall course grade will be comprised of the following components, and their weights:
 
-- Workshop Assessments: 10%
-- Projects: 40%
-- Final Exam: 50%
+| Assignment | Release Date       | Submission Date    | % of Final Mark |
+|------------|--------------------|--------------------|-----------------|
+| Workshops  | Thursday (Weekly)  | Wednesday (Weekly) | 10%             |
+| Project 1  | Monday (Week 5)    | Friday (Week 7)    | 20%             |
+| Project 2  | Monday (Week 10)   | Friday (Week 12)   | 20%             |
+| Exam       |                    |                    | 50%             |
 
-### Workshop Assessments (10%)
+__Exam:__ 3 questions on ML methodology; 1 questions on understanding of Python code/output.
+
+### Workshops (10%)
 
 Teams are required to to turn in the completed worksheets via __[Gradescope/GitHub repositories?]__ by Wednesday 5pm UK time before the next week’s workshop. Marking will be binary, with any reasonable attempt to complete the worksheet receiving full credit. No extensions will be granted for submitting these worksheets. Solutions will be provided after the deadline.
 
@@ -64,6 +69,8 @@ Using these criteria, specific rubrics will be used to assess each of the 4 requ
 ### Final Exam (50%)
 
 __[Insert Information]__
+
+3 questions on ML methodology; 1 questions on understanding of Python code/output.
 
 A sample exam will be provided later in the course. A version with solutions will be posted after [DATE].
 
