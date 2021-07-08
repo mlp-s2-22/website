@@ -26,8 +26,6 @@ On completion of this course, students will be able to:
 
 <img src="https://mlp-s2-22.github.io/website/assets/img/week_1_figures-5.png"/>
 
-week_1_figures-5
-
 {% if site.github.is_project_page %}
 <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
 {% endif %}
