@@ -24,6 +24,8 @@ On completion of this course, students will be able to:
 |  10  | Neural Networks pt.2                                               | Jacob       |
 |  11  | Ethics                                                             | David       |
 
+<img src="https://mlp-s2-22.github.io/website/assets/img/week_1_figures-5.png"/>
+
 {% if site.github.is_project_page %}
 <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
 {% endif %}
