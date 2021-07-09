@@ -13,7 +13,7 @@ On completion of this course, students will be able to:
 | Week | Topic                                                              | Lecturer    |
 |------|--------------------------------------------------------------------|-------------|
 |  1   | <a href="/website/pages/week1.html">Introduction</a>               | David       |
-|  2   | Feature Engineering                                                | David       |
+|  2   | Data and Features                                                  | David       |
 |  3   | Dimension Reduction                                                | Jacob       |
 |  4   | Distance-Based Models                                              | ???         |
 |  5   | Linear Regression                                                  | ???         |
