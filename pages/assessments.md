@@ -5,9 +5,7 @@ Your overall course grade will be comprised of the following components, and the
 | Workshops  | Monday (Weekly)    | Wednesday (Following Week) | 10%             |
 | Project 1  | Monday (Week 5)    | Friday (Week 7)            | 20%             |
 | Project 2  | Monday (Week 10)   | Friday (Week 12)           | 20%             |
-| Exam       |                    |                            | 50%             |
-
-__Exam:__ 3 questions on ML methodology; 1 questions on understanding of Python code/output.
+| Exam       | TBA                | (Same Day)                 | 50%             |
 
 ### Workshops (10%)
 
