@@ -12,7 +12,7 @@ Get acquainted with the course and the skills you will acquire throughout the se
 
 | Assignment  | Title/Link                  | Due                   |
 |:------------|:----------------------------|:----------------------|
-| EX01        | [Introductory Exercises](https://example.com)      |                       |
+| EX01        | [Introductory Exercises](https://mlp-s2-22.github.io/exercises/blob/main/week_1.html)      |                       |
 | LAB01       | [End-to-End Machine Learning](https://example.com) | Wed, 26 Jan, 17:00 UK |
 
 ### Readings
