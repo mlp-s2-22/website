@@ -3,10 +3,10 @@ Get acquainted with the course and the skills you will acquire throughout the se
 
 ### Lectures
 
-| No. | Title | YouTube | MediaHopper | Slides | Length |
+| No. | Title | YouTube | MediaHopper | Slides | Notes |
 |:---|:-----|:-------:|:-----------:|:------:|:------:|
-| 00   | Meet the course team (TEMP) | [<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg" width="30"/>](https://youtu.be/lX93oBGaBwQ) | [<img src="https://image.flaticon.com/icons/png/512/711/711245.png" width="30"/>](https://media.ed.ac.uk/media/IDS+-+Meet+the+course+team/1_q82gknap) |  | 02:36 |
-| 01   | Introduction               | [<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg" width="30"/>](https://example.com) | [<img src="https://image.flaticon.com/icons/png/512/711/711245.png" width="30"/>](https://example.com) |   [<img src="https://image.flaticon.com/icons/png/512/3497/3497154.png" width="30"/>](https://example.com) |00:00  |
+| 00   | Meet the course team (TEMP) | [<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg" width="30"/>](https://youtu.be/lX93oBGaBwQ) | [<img src="https://image.flaticon.com/icons/png/512/711/711245.png" width="30"/>](https://media.ed.ac.uk/media/IDS+-+Meet+the+course+team/1_q82gknap) |  |  |
+| 01   | Introduction               | [<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg" width="30"/>](https://example.com) | [<img src="https://image.flaticon.com/icons/png/512/711/711245.png" width="30"/>](https://example.com) | [<img src="https://image.flaticon.com/icons/png/512/3497/3497154.png" width="30"/>](https://example.com) | [<img src="https://image.flaticon.com/icons/png/512/768/768818.png" width="30">](https://example.com)  |
 
 ### Assignments
 
@@ -17,7 +17,7 @@ Get acquainted with the course and the skills you will acquire throughout the se
 
 ### Readings
 
-| Title/Link    | Requirement |
+| Title    | Link/Book Title |
 |:--------------|:------------|
-| [Lecture Notes](https://example.com) | Required    |
-| LINK          | Optional    |
+| Chapter 1: The Machine Learning Landscape | [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://ed.primo.exlibrisgroup.com/permalink/44UOE_INST/1viuo5v/cdi_proquest_ebookcentral_EBC4822582)|
+| Chapter 2: End-to-End Machine Learning Project | [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://ed.primo.exlibrisgroup.com/permalink/44UOE_INST/1viuo5v/cdi_proquest_ebookcentral_EBC4822582)|
