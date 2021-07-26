@@ -13,7 +13,7 @@ Get acquainted with the course and the skills you will acquire throughout the se
 | Code  | Title/Link                  | Due                   | Additional Info |
 |:------------|:----------------------------|:----------------------|:----------------|
 | EX01        | [Introductory Exercises](https://mlp-s2-22.github.io/exercises/week_1.html)      | - | Password: [Released Week 2]
-| LAB01       | [End-to-End Machine Learning](https://nbviewer.jupyter.org/github/mlp-s2-22/w01-workshop/blob/main/week01.ipynb) | Wed, 26 Jan, 17:00 UK | |
+| LAB01       | End-to-End Machine Learning | Wed, 26 Jan, 17:00 UK | |
 
 ### Readings
 
