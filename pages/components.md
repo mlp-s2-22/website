@@ -66,7 +66,7 @@ __TODO__
 - add in the screenshots.
 
 #### Local Setup
-You may however want to work on this project on your own machine. Below is a suggested local setup, although experienced students may want to create their own environment tailored to their preferences.
+You may instead want to work on this project on your own machine. Below is a suggested local setup, although experienced students may want to create their own environment and workflows tailored to their preferences.
 
 __TODO__
 - Insert local setup notes.
