@@ -9,7 +9,7 @@ Your overall course grade will be comprised of the following components, and the
 
 ### Workshops (10%)
 
-Teams are required to to turn in the completed worksheets via __[Gradescope/GitHub repositories?]__ by Wednesday 5pm UK time before the next week’s workshop. Marking will be binary, with any reasonable attempt to complete the worksheet receiving full credit. No extensions will be granted for submitting these worksheets. Solutions will be provided after the deadline.
+Teams are required to to turn in the completed worksheets via GitHub (see [Course Components](https://mlp-s2-22.github.io/website/pages/components.html)) by Wednesday 5pm UK time before the next week’s workshop. Marking will be binary, with any reasonable attempt to complete the worksheet receiving full credit. No extensions will be granted for submitting these worksheets. Solutions will be provided after the deadline.
 
 ### Projects (40%)
 
