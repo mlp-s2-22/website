@@ -1,6 +1,13 @@
 ## Week 1 - Introduction
 Get acquainted with the course and the skills you will acquire throughout the semester.
 
+## Tasks
+- Fill in the [getting to know you](example.com) form.
+- Watch the lectures.
+- Do the introductory exercises.
+- Prepare your coding environment using [these instructions](https://mlp-s2-22.github.io/website/pages/setup.html).
+- Attend your workshop time.
+
 ### Lectures
 
 | No. | Title | YouTube | MediaHopper | Slides | Notes |
@@ -15,7 +22,7 @@ Get acquainted with the course and the skills you will acquire throughout the se
 | EX01  | [Introductory Exercises](https://mlp-s2-22.github.io/exercises/week_1.html)      | - | Password: [Released Week 2]
 | LAB01 | [End-to-End Machine Learning](https://github.com/mlp-s2-22?q=w01-workshop&type=&language=&sort=) | Wed, 26 Jan, 17:00 UK | Solutions released Week 2 |
 
-### Readings
+### Readings (Optional)
 
 | Title    | Link/Book Title |
 |:--------------|:------------|
