@@ -98,14 +98,18 @@ You may instead want to work on this project on your own machine using this sugg
 
 3. __Save changes to Git and GitHub__
 
-    After you make any changes that you want to save to your local git history, you should first `add` these files that have been changed to the git staging area and then `commit` them. If your using the Terminal for git, you could use the following code (provided your current directory is your local repository):
+    After you make any changes that you want to save to your local git history, you should first `add` these files that have been changed to the git staging area and then `commit` them. 
+
+    If your using the Terminal for git, you could use the following code (provided your current directory is your local repository):
     ```
     $ git add -p
     $ git commit
     ```
     If you are using GitHub Desktop, then any changes are already added for you in the left panel, you just need to write a commit message in the "Summary" box and press the "commit" button when you want to save them.
 
-    You probably want to store these on the remote GitHub where your teammates and tutors can see them. But before doing anything else its worth trying to `pull` any new changes. This is to avoid any merge conflicts if other teammates have been working on the code. If anything conflicts with your code, you need to manually make these fixes. Then you are ready to `push` your code. If your using the Terminal for git, you could you could use the following code:
+    You probably want to store these on the remote GitHub where your teammates and tutors can see them. But before doing anything else its worth trying to `pull` any new changes. This is to avoid any merge conflicts if other teammates have been working on the code. If anything conflicts with your code, you need to manually make these fixes. Then you are ready to `push` your code. 
+
+    If you are using the Terminal for git, you could you could use the following code:
      ```
     $ git pull
     $ git push
@@ -117,7 +121,7 @@ You may instead want to work on this project on your own machine using this sugg
 
 #### Updating Libraries
   
-During the course I may need to update the `conda` environment to fix issues and add support for new libraries. If you are using a __Local Setup__ you may need update this environment at the start of a workshop. To do this open a Terminal (MacOSX and Linux) or Anaconda Shell (Windows), and run
+During the course I may need to update the `conda` environment to fix issues and add support for new libraries. If you are using a __Local Setup__ you may need update this environment at the start of a workshop. To do this open a Terminal (MacOSX and Linux) or Anaconda Shell (Windows), and run the following:
 
 ```
 $ cd $HOME    # or whatever development directory you chose earlier
