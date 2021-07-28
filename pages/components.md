@@ -5,7 +5,7 @@
 - __Friday:__ Weekly workshops
 - __???:__ Student Hours
 
-### Student hours
+### Student Hours
 
 The weeks lecturer will each hold student hours on __[INSERT DATE/TIME]__. These will be __[in person at INSERT LOCATION/on Zoom and will not be recorded?]__. It's a great time to come and get real time answers to your questions or just say hi!
 
@@ -37,4 +37,4 @@ If you are looking for your workshop times for this course, these can be found v
 __Tip:__ Read or even start the workshop materials before the workshop on Friday so you have chance to become familiar with that weeks tasks. This will mean you have more time in the workshop to ask questions to the tutors/lecturers and discuss problems with other students.
 
 #### Access to Materials
-Workshop materials will be released on [Github](https://github.com/mlp-s2-22) each week. Each student will have their own repository that they can use to "push" and "pull" their work. For example, your repository for the first workshop will be something like "w01-workshop-username". You are able to work with others on your worksheets (as mentioned above), but each team member is expected to individually submit a notebook to their repository before the deadline. For suggested setups and workflows for the worksheets, please read the [Setup Guidance](https://mlp-s2-22.github.io/website/pages/setup.html) page.
+Workshop materials will be released on [Github](https://github.com/mlp-s2-22) each week. Each student will have their own repository that they can `clone`, `push`, and `pull` their work. For example, your repository for the first workshop will be something like "w01-workshop-username". After the deadline, you will not be able to `push` any more work. You are able to work with others on your worksheets (as mentioned above), but each team member is expected to individually submit a notebook to their repository before the deadline. For suggested setups and workflows for the worksheets, please read the [Setup Guidance](https://mlp-s2-22.github.io/website/pages/setup.html) page.
