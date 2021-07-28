@@ -17,6 +17,14 @@ Get acquainted with the course and the skills you will acquire throughout the se
 | 02   | Hype | - | - | [<img src="https://image.flaticon.com/icons/png/512/3497/3497154.png" width="30"/>](https://mlp-s2-22.github.io/slides/week_01/reveal.js/2_Hype.html) | [<img src="https://image.flaticon.com/icons/png/512/768/768818.png" width="30">](https://mlp-s2-22.github.io/slides/week_01/reveal.js/2_Hype.html?showNotes=separate-page&print-pdf)  |
 | 03   | The Machine Learning Pipeline | - | - | [<img src="https://image.flaticon.com/icons/png/512/3497/3497154.png" width="30"/>](https://mlp-s2-22.github.io/slides/week_01/reveal.js/3_Pipeline.html) | [<img src="https://image.flaticon.com/icons/png/512/768/768818.png" width="30">](https://mlp-s2-22.github.io/slides/week_01/reveal.js/3_Pipeline.html?showNotes=separate-page&print-pdf)  |
 
+#### PDF Export Instructions
+1. Click on the "Notes" icon for the lecture.
+2. Open the in-browser print dialog (CTRL/CMD+P).
+3. Change the __Destination__ setting to __Save as PDF__.
+4. Change the __Layout__ to __Landscape__.
+5. Change the __Margins__ to __None__.
+6. Enable the __Background graphics__ option.
+7. Click __Save__ 🎉
 
 ### Assignments
 
