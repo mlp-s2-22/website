@@ -12,8 +12,8 @@ Get acquainted with the course and the skills you will acquire throughout the se
 
 | No. | Title | YouTube | MediaHopper | Slides | Notes |
 |:---|:-----|:-------:|:-----------:|:------:|:------:|
-| 00   | Meet the course team (TEMP) | [<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg" width="30"/>](https://youtu.be/lX93oBGaBwQ) | [<img src="https://image.flaticon.com/icons/png/512/711/711245.png" width="30"/>](https://media.ed.ac.uk/media/IDS+-+Meet+the+course+team/1_q82gknap) |  |  |
-| 01   | Introduction               | [<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg" width="30"/>](https://example.com) | [<img src="https://image.flaticon.com/icons/png/512/711/711245.png" width="30"/>](https://example.com) | [<img src="https://image.flaticon.com/icons/png/512/3497/3497154.png" width="30"/>](https://example.com) | [<img src="https://image.flaticon.com/icons/png/512/768/768818.png" width="30">](https://example.com)  |
+| 00   | Meet the course team (TEMP) | [<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg" width="30"/>](https://youtu.be/lX93oBGaBwQ) | [<img src="https://image.flaticon.com/icons/png/512/711/711245.png" width="30"/>](https://media.ed.ac.uk/media/IDS+-+Meet+the+course+team/1_q82gknap) | - | - |
+| 01   | Welcome               | - | - | [<img src="https://image.flaticon.com/icons/png/512/3497/3497154.png" width="30"/>](https://mlp-s2-22.github.io/lectures/week_01/lecture_01_(reveal.js-4.1.2)) | [<img src="https://image.flaticon.com/icons/png/512/768/768818.png" width="30">](https://mlp-s2-22.github.io/lectures/week_01/lecture_01_(reveal.js-4.1.2)/?print-pdf)  |
 
 ### Assignments
 
