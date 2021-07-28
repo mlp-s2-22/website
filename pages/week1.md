@@ -2,11 +2,11 @@
 Get acquainted with the course and the skills you will acquire throughout the semester.
 
 ## Tasks
-- Fill in the [getting to know you](example.com) form.
+- Fill in the [Getting to Know You](https://forms.office.com/r/BXJFxjTKvb) form.
 - Watch the lectures.
 - Do the introductory exercises.
 - Prepare your coding environment using [these instructions](https://mlp-s2-22.github.io/website/pages/setup.html).
-- Attend your workshop time.
+- Attend your workshop at your assigned time.
 
 ### Lectures
 
