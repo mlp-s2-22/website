@@ -29,8 +29,7 @@ We recommend the use of Google Colab as a cloud environment for running, working
 
 5. When you are done working on a section, make sure to save a copy back onto GitHub (File, Save a Copy in GitHub).
 
-> **Warning**: This simple way of saving your work to GitHub does mean you have to be careful you are not about to remove someone elses work from the latest version when working in a team. You will just commit your version of the code to the top of the repository history without any warning if someone else has added to it before you send your copy across. To avoid this if working in a team, you may want to use the local setup (detailed below), a combined approach, or ensure only one of you works on the code at any one time.
-
+> **Warning**: This simple way of saving your work to GitHub does mean when you are working collaberatively on the projects you have to be careful you are not about to remove someone elses work from the latest version. You will just commit your version of the code to the top of the repository history without any warning if someone else has added to it before you send your copy across. To avoid this when working in a team, you may want to use the local setup (detailed below), a combined approach, or ensure only one of you works on the code at any one time.
 ---
 
 ### Local Setup<sup>1</sup>
@@ -75,15 +74,14 @@ You may instead want to work on this project on your own machine using this sugg
 
 #### Suggested Workflow
 
-1. __Get a local version of your teams workshop repository__
+1. __Get a local version of your workshop repository__
 
-    If this is the first time you are working locally on the repository then you need to `clone` it. For example, to clone your repository (e.g. https://github.com/mlp-s2-22/w01-workshop-teamname) to your local machine, you could open a terminal and type the following commands:
+    If this is the first time you are working locally on the repository then you need to `clone` it. For example, to clone your repository (e.g. https://github.com/mlp-s2-22/w01-workshop-username) to your local machine, you could open a terminal and type the following commands:
     ```
     $ cd $HOME  # or any other directory you prefer
-    $ git clone https://github.com/mlp-s2-22/w01-workshop-teamname
+    $ git clone https://github.com/mlp-s2-22/w01-workshop-username
     ```
-    
-    You could instead use the Github Desktop GUI by navigating to your teams workshop repository webpage, click the green "Code" button, and "Open with GitHub Desktop".
+    You could instead use the Github Desktop GUI by navigating to your workshop repository webpage, click the green "Code" button, and "Open with GitHub Desktop".
 
 2. __Run a Jupyter Notebook__
     
@@ -107,7 +105,7 @@ You may instead want to work on this project on your own machine using this sugg
     ```
     If you are using GitHub Desktop, then any changes are already added for you in the left panel, you just need to write a commit message in the "Summary" box and press the "commit" button when you want to save them.
 
-    You probably want to store these on the remote GitHub where your teammates and tutors can see them. But before doing anything else its worth trying to `pull` any new changes. This is to avoid any merge conflicts if other teammates have been working on the code. If anything conflicts with your code, you need to manually make these fixes. Then you are ready to `push` your code. 
+    You probably want to store these on the remote GitHub where your tutors (and on the projects teammates) can see them. But before doing anything else its worth trying to `pull` any new changes. This is to avoid any merge conflicts if others have been working on the code. If anything conflicts with your code, you need to manually make these fixes. Then you are ready to `push` your code. 
 
     If you are using the Terminal for git, you could you could use the following code:
      ```
