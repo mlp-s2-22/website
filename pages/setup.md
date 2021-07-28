@@ -1,7 +1,7 @@
 ## Setup Instructions
 Below are detailed instructions to setup a working environment for the workshop materials and associated suggested workflow. Ultimately it is up to you which method you prefer and experienced students may want to create their own environment and workflows tailored to their preferences.
 
-It is suggested you setup your environment after you are a member of the "mlp-s2-22" organisation. This will give you access to all the materials needed for the course. To do this make sure to fill out the [Getting to Know You](example.com) survey so I have the required details for setup (e.g. GitHub Username).
+It is suggested you setup your environment after you are a member of the "mlp-s2-22" organisation. This will give you access to all the materials needed for the course. To do this make sure to fill out the [Getting to Know You](https://forms.office.com/r/BXJFxjTKvb) survey so I have the required details for setup (e.g. GitHub Username).
 
 ### Cloud Setup
 We recommend the use of Google Colab as a cloud environment for running, working, and submitting code for this course. This is because it...
