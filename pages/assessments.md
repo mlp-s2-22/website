@@ -9,7 +9,7 @@ Your overall course grade will be comprised of the following components, and the
 
 ### Workshops (10%)
 
-Teams are required to to turn in the completed worksheets via GitHub (see [Course Components](https://mlp-s2-22.github.io/website/pages/components.html)) by Wednesday 5pm UK time before the next week’s workshop. Marking will be binary, with any reasonable attempt to complete the worksheet receiving full credit. No extensions will be granted for submitting these worksheets. Solutions will be provided after the deadline.
+Students are required to to turn in completed worksheets via GitHub (see [Course Components](https://mlp-s2-22.github.io/website/pages/components.html)) by Wednesday 5pm UK time before the next week’s workshop. Marking will be binary, with any reasonable attempt to complete the worksheet receiving full credit. No extensions will be granted for submitting these worksheets. Solutions will be provided after the deadline.
 
 ### Projects (40%)
 
@@ -17,15 +17,15 @@ Either individually or as a team of up to 4 students, you will be responsible fo
 
 #### Project 1 (20%)
 
-Specific details on this project will be made available as the course progresses. 
+Specific details on this project will be made available on Monday (Week 5). 
 
 #### Project 2 (20%)
 
-Specific details on this project will be made available as the course progresses.  
+Specific details on this project will be made available on Monday (Week 10).  
 
 #### Required Structure & Formatting
 
-We will provide a templated Jupyter notebook for each project which include the required sections along with brief instructions on what should be included in each section. Your completed assignment must follow this structure - you should not add or remove any of these sections, if you feel it is necessary you may add addition subsections within each. Please remove the instructions for each section in the final document.
+We will provide a template Jupyter notebook in each teams (or individuals) project repository. Each template will include the required sections along with brief instructions on what should be included. Your completed assignment must follow this structure - you should not add or remove any of these sections, if you feel it is necessary you may add addition subsections within each. Please remove the instructions for each section in the final document.
 
 All of your work must be contained in the notebook, we will only mark what is included in this file.
 
@@ -35,14 +35,12 @@ Overall, your project will be partially assessed on your organization/presentati
 
 #### Submission
 
-Project 1 is due __[INSERT DATE]__ by 5 pm (UK local time) and project 2 is due __[INSERT DATE]__ by 5 pm (UK local time). You are expected to submit your completed work as follows:
+Project 1 is due Friday (Week 7) by 5 pm (UK local time) and project 2 is due Friday (Week 12) by 5 pm (UK local time). You are expected to submit your completed work as follows:
 
-- Submit a PDF of your report (generated from a Jupyter notebook) to the Project 1 assignment on [Gradescope/Github?].
-- Submit your ipynb notebook file and any supplementary data and script files to the Project 1 assignment on [Learn/Github?].
+- Submit a PDF of your report (generated from a Jupyter notebook) on the project GitHub repository.
+- Submit your ipynb notebook file and any supplementary data and script files on the project GitHub repository.
 
 Both submission steps are necessary for your work to be considered submitted. Standard late penalties will apply if either piece is not submitted by the deadline.
-
-For a team submission - all contributors should be added to the assignment. Only one team member needs to submit the ipynb notebook on Learn.
 
 Late submissions will be accepted up to seven calendar days of the deadline, with a late submission penalty applied of 5% of the overall mark for each 24 hours past the deadline. Full details on the [extensions and late submissions policy](https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/extensions).
 
