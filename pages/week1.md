@@ -39,4 +39,4 @@ Get acquainted with the course and the skills you will acquire throughout the se
 |:--------------|:------------|
 | Chapter 1: The Machine Learning Landscape | [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://ed.primo.exlibrisgroup.com/permalink/44UOE_INST/1viuo5v/cdi_proquest_ebookcentral_EBC4822582)|
 | Chapter 2: End-to-End Machine Learning Project | [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://ed.primo.exlibrisgroup.com/permalink/44UOE_INST/1viuo5v/cdi_proquest_ebookcentral_EBC4822582)|
-| Chapter 2: Statistical Learning | [An introduction to statistical learning with applications in R](https://ed.primo.exlibrisgroup.com/permalink/44UOE_INST/7g3mt6/alma9921659313502466)|
+| Chapter 2: Statistical Learning | [An Introduction to Statistical Learning with Applications in R](https://ed.primo.exlibrisgroup.com/permalink/44UOE_INST/7g3mt6/alma9921659313502466)|
