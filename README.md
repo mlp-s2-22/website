@@ -1,5 +1,7 @@
 <img src="https://mlp-s2-22.github.io/website/assets/img/banner.png"/>
 
+**THIS COURSE IS NO LONGER GOING TO RUN**
+
 This course intends to provide an introduction to machine learning techniques. The course includes discussion on the theory and ideas behind various modern algorithms, so basic knowledge of probability and statistics is required. This is also a focus on practical experience of using suitable toolkits, available in Python, on various datasets.
 
 There is a high demand for computational modellers and data scientists and this course aims to teach skills suitable for careers in a wide range of public and private institutions.
